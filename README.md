@@ -12,7 +12,7 @@
 - **Languages:** JavaScript (ES6+), HTML, CSS  
 - **Backend:** Node.js, Express, MongoDB  
 - **Frontend:** React, Redux  
-- **Other:** Git, Docker (learning), AWS (learning)  
+- **Other:** Git, Docker, Kubernetes (learning), AWS (learning)  
 
 ---
 
