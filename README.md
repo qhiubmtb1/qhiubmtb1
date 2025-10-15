@@ -9,7 +9,7 @@
 ---
 
 ### 🔧 Tech Stack  
-- **Languages:** JavaScript (ES6+), HTML, CSS  
+- **Languages:** JavaScript (ES6+), Python, Java (leaning) 
 - **Backend:** Node.js, Express, MongoDB  
 - **Frontend:** React, Redux  
 - **Other:** Git, Docker, Kubernetes (learning), AWS (learning)  
